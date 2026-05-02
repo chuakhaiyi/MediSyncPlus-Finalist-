@@ -5,9 +5,9 @@ MediSync+ is an AI-powered post-discharge healthcare companion for chronic care 
 ---
 
 ## Documents
-- [Deployment Plan](./MediSyncPlus-Finalist-_Deployment_Plan.pdf)
-- [Business Proposal](./MediSyncPlus-Finalist-_Business_Proposal_(Final_Round).pdf)
-- [RQATD](./MediSyncPlus-Finalist-_Refined_Testing_Analysis_Documentation_(Final_Round).docx.pdf)
+- [Deployment Plan](./Deployment%20Plan.pdf)
+- [Business Proposal](./Business%20Proposal%20(Final%20Round).pdf)
+- [RQATD](./MediSyncPlus-Finalist-%20Refined%20Testing%20Analysis%20Documentation%20(Final%20Round).docx.pdf)
 
 ## Overview
 
