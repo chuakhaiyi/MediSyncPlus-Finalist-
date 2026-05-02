@@ -1,0 +1,8 @@
+-keep class com.medisyncplus.data.models.** { *; }
+-keep class com.medisyncplus.ai.** { *; }
+-keep class com.medisyncplus.ai.agents.** { *; }
+-keep class com.medisyncplus.viewmodel.** { *; }
+-keepattributes Signature
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn retrofit2.**
