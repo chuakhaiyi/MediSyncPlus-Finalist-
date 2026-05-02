@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MediSync+</string>
+    <string name="channel_medication">Medication Reminders</string>
+    <string name="channel_checklist">Daily Checklist</string>
+    <string name="channel_alerts">Clinical Alerts</string>
+    <string name="channel_appointments">Appointment Reminders</string>
+</resources>
